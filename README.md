@@ -13,3 +13,5 @@ This is when we really start to learn how to do things
 
 
 1. Opend index.html in your browser
+
+2. Fill in the blanks
